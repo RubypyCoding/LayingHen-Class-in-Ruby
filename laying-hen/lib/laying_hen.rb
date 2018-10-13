@@ -42,6 +42,3 @@ class Egg
 end
 
 #Standard Error
-
-
-OJOOOO ---> Me quedé en las instrucciones.
